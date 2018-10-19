@@ -1,0 +1,22 @@
+{
+  "name": "46stationroad",
+  "version": "1.0.0",
+  "description": "a place for testing things",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TimHeap46/46StationRoad.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TimHeap46/46StationRoad/issues"
+  },
+  "homepage": "https://github.com/TimHeap46/46StationRoad#readme",
+  "dependencies": {
+    "bootstrap": "4.0.0-alpha.6"
+  }
+}
